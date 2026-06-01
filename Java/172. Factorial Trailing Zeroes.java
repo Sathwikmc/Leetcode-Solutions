@@ -8,6 +8,6 @@ class Solution {
             count+=n;
         }
         return count;
-      
+     
     }
 }
